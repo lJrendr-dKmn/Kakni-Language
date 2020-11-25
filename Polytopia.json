@@ -746,8 +746,6 @@
   "consent.disabled.info":"To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
   "consent.revoke":"revoke consent",
 
-  "onlineview.matchmaking": "Niwa lantum",
-  "onlineview.randommatch.start": "niwa Niwa lantum",
   "onlineview.title": "INIWAT",
   "onlineview.loadingservice": "Loading Service",
   "onlineview.yourturn": "Niwa tu",
